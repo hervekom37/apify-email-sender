@@ -1,0 +1,9 @@
+{
+  "name": "apify-email-sender",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "nodemailer": "^6.10.1",
+    "papaparse": "^5.5.3"
+  }
+}
