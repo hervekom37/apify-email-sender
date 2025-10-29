@@ -44,9 +44,9 @@ Whether you’re using Swagger, ReDoc, or Stoplight, Apidog Docs can replace the
 Would you be open to testing it out or migrating one of your existing specs for comparison?
 
 Best,
-[Your Name]
+[Bill]
 Developer Relations | Apidog
-[your.email@apidog.com]
+[bill@inc.apidog.com]
 https://apidog.com
 `;
 
